@@ -45,7 +45,7 @@ cd && termux-setup-storage && pkg update && pkg upgrade -y && pkg install -y git
 ```
 
 ```bash
-git clone https://github.com/CrazyBoot001/AlacranEdit.git && cd AlacranEdit
+git clone https://github.com/OwenpE2/CrazyOfc.git && cd CrazyOfc
 ```
 
 ```bash
