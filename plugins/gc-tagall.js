@@ -9,7 +9,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   let teks = `*➥👑@𝙾𝚠𝚎𝚎𝚗._.001*\n\n ${oi}\n\nː͡ㅤ҉ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂 :*
   \n`;
   for (const mem of participants) {
-    teks += `┣➥🎄 🐼@${mem.id.split('@')[0]}\n`;
+    teks += `┣➥🏖️ 🐼@${mem.id.split('@')[0]}\n`;
   }
   teks += `\n\n*𝑨𝒅𝒒𝒖𝒊𝒆𝒓𝒆 𝒕𝒖 𝑪𝒓𝒂𝒛𝒚 𝑩𝒐𝒕 𝒄𝒐𝒏 wa.me/+51942286712*\n\n*▌│█║▌║▌║║▌║▌║▌║█*`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
