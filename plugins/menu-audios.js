@@ -43,6 +43,12 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ➥ᖫ❍ᖭ🔊 _Buenos noches_
 ➥ᖫ❍ᖭ🔊 _Bien pensado woody_
 ➥ᖫ❍ᖭ🔊 _Audio hentai_
+➥ᖫ❍ᖭ🔊 _Dios esta aqui_
+➥ᖫ❍ᖭ🔊 _Summer time_
+➥ᖫ❍ᖭ🔊 _Detector de marica_
+➥ᖫ❍ᖭ🔊 _chipi chapa_
+➥ᖫ❍ᖭ🔊 _Droga a la llama_
+➥ᖫ❍ᖭ🔊 _Y se marcho_
 ➥ᖫ❍ᖭ🔊 _Chica lgante_
 ➥ᖫ❍ᖭ🔊 _Elmo sabe donde vives_
 ➥ᖫ❍ᖭ🔊 _Esta Zzzz_
