@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/CrazyBoot001/AlacranEdit",
+  "homepage": "https://github.com/OwenpE2/CrazyOfc",
   "author": {
-    "name": "CrazyBoot001"
+    "name": "OwenpE2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrazyBoot001/AlacranEdit.git"
+    "url": "git+https://github.com/OwenpE2/CrazyOfc.git"
   },
   "bugs": {
-    "url": "https://github.com/CrazyBoot001/AlacranEdit/issues"
+    "url": "https://github.com/OwenpE2/CrazyOfc/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
