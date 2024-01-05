@@ -52,6 +52,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ➥ᖫ❍ᖭ🔊 _Chica lgante_
 ➥ᖫ❍ᖭ🔊 _Elmo sabe donde vives_
 ➥ᖫ❍ᖭ🔊 _Esta Zzzz_
+➥ᖫ❍ᖭ🔊 _Mi primera chamba_
 ➥ᖫ❍ᖭ🔊 _Que onda_
 ➥ᖫ❍ᖭ🔊 _Flash_
 ➥ᖫ❍ᖭ🔊 _fino señores_
