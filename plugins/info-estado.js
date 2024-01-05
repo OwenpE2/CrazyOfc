@@ -10,7 +10,7 @@ const handler = async (m, {conn}) => {
 │ *➤ Hola ${taguser} Hermos@*
 │
 │ *=> 🤖 Tiempo Activo : ${uptime}
-│ *=> 👑 Creador: CRAZY
+│ *=> 👑 Creador: Owen
 │ *=> 🔗 IG : https://www.instagram.com/oween._.001/
 ╰────────────────`.trim();
     if (m.isGroup) {
