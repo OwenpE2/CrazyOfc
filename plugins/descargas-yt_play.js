@@ -148,7 +148,7 @@ await conn.sendMessage(m.chat, { video: { url: n2 }, fileName: `${n}.mp4`, mimet
 }} catch {
 handler.limit = 0
 }}
-handler.command = ['playcrazy', 'play2']
+handler.command = ['playcrazy', 'playcrazy']
 handler.exp = 0
 handler.limit = 1
 export default handler
