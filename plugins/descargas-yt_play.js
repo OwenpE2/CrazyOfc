@@ -11,7 +11,7 @@ const yt_play = await search(args.join(" "))
 let additionalText = ''
 if (command === 'playcrazy') {
 additionalText = '𝘼𝙐𝘿𝙄𝙊 🔊'
-} else if (command === 'play2') {
+} else if (command === 'playcrazy') {
 additionalText = '𝙑𝙄𝘿𝙀𝙊 🎥'}
 let captionvid = `𓆩 𓃠 𓆪 ✧═══ ${vs} ═══✧ 𓆩 𓃠 𓆪*
 
@@ -120,7 +120,7 @@ renderLargerThumbnail: true
 } catch {
 }}}}}
 }  
-if (command == 'play2') {
+if (command == 'playcrazy') {
 try {
 let qu = '360'
 let q = qu + 'p'
@@ -148,7 +148,7 @@ await conn.sendMessage(m.chat, { video: { url: n2 }, fileName: `${n}.mp4`, mimet
 }} catch {
 handler.limit = 0
 }}
-handler.command = ['play', 'play2']
+handler.command = ['playcrazy', 'play2']
 handler.exp = 0
 handler.limit = 1
 export default handler
