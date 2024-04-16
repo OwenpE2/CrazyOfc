@@ -76,6 +76,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ➥ᖫ❍ᖭ🔊 _Baneado_
 ➥ᖫ❍ᖭ🔊 _Jere klein_
 ➥ᖫ❍ᖭ🔊 _Aparatos_
+➥ᖫ❍ᖭ🔊 _mapache_
 ➥ᖫ❍ᖭ🔊 _Omaiga_
 ➥ᖫ❍ᖭ🔊 _Barbie_
 ➥ᖫ❍ᖭ🔊 _Snoop dogg_
