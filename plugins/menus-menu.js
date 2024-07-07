@@ -128,6 +128,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   ᖫ❍ᖭ👹 _${usedPrefix}wordfind_
   ᖫ❍ᖭ👹 _${usedPrefix}peliculas_
   ᖫ❍ᖭ👹 _${usedPrefix}palabra_
+  ᖫ❍ᖭ👹 _${usedPrefix}ruleta_
  ┣━━═════⊰⊱ ⬛ ⊰⊱═════━━┛
  
 ┏━━═════⊰⊱ ⬛ ⊰⊱═════━━┓
